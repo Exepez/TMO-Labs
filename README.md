@@ -9,6 +9,6 @@
 ## Рубежные контроли:
 + **RK1**: [Отчет](https://github.com/Exepez/TMO-Labs/blob/master/TMO-RK1/TMO-RK1.pdf)
 + **RK2**: [Отчет](https://github.com/Exepez/TMO-Labs/blob/master/TMO-RK2/TMO-RK2.pdf)
-+ ## Курсовой проект:
+## Курсовой проект:
 + **Курсовой проект**: [Отчет](https://github.com/Exepez/TMO-Labs/blob/master/TMO-KyP/TMO-KyP.pdf)
 
